@@ -1,0 +1,29 @@
+.k {
+	text-align: center;
+	color: blue;
+	font-size: 50px;
+	margin-bottom: -10px;
+}
+tbody {
+
+}
+.from {
+	text-align: center;
+}
+.nom {
+	margin-left:350px;
+	padding: 4px;
+	margin: 4px;
+}
+.tam {
+	text-align: right;
+	margin-right: 350px;
+	position: relative;
+	top: 70px;	
+}
+.log {
+	text-align: right;
+	margin-right: 350px;
+	position: relative;
+	top: 10px;
+}

@@ -1,0 +1,49 @@
+body table td {
+	border:1px solid black;
+	font-size: 30px;
+	
+}
+.kin {
+	margin-top: 120px;
+	margin-left: 120px;
+	margin-right: 120px; 
+	border:1px solid black;
+	position: center;
+	background-color: #ffe6f9;
+	font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.l {
+	width: 880px;
+}
+.n {	
+	width: 200px;
+	text-align: left;
+}
+.o {
+	width: 880px;
+	height: 25px;
+	margin-bottom: 10px;
+}
+.kin h1 {
+	text-align: left;
+}
+.sam {
+	display: inline;
+	float: right !important;
+}
+.but {
+	border:none;
+}
+
+.kin button {
+	margin: 5px 5px 5px 5px;
+	width: 75%;
+	background: red;
+	font-size: 18px;
+	color:white;
+	cursor: pointer;
+	border-radius: 20px;
+}
+.kin button:hover {
+	background:rgba(255,0,0,0.6)
+}
